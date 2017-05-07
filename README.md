@@ -1,7 +1,7 @@
 # python_PhD_days_UU
 This folder contains the introductory material for the introduction to PhD days 2017 
 
-## Scripts
+## Files
 **AdvancedBasics.py** contains data structures and python basics
 
 **Summary_fasta.py** contains a command line script that can be used tooutput summary of a dna sequence file ( fasta format)
