@@ -1,5 +1,5 @@
 # python_PhD_days_UU
-This folder contains the introductory material for the introduction to PhD days 2017 
+This folder contains the introductory material for the introduction to python for the PhD days 2017 
 
 ## Files
 **AdvancedBasics.py** contains data structures and python basics
