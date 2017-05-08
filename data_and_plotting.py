@@ -24,8 +24,8 @@ bikes['Berri 1'].plot()
 
 
 # create a data frame only with the berri neighborhood to focus on it
-type(berri_bikes) # Berri is a dataframe, an object defined by the panda library.
 berri_bikes = bikes[['Berri 1']].copy() # it uses the copy method on this object
+type(berri_bikes) # Berri is a dataframe, an object defined by the panda library.
 
 #look at the first 5 data points
 berri_bikes[:5]

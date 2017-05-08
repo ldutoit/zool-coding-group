@@ -110,8 +110,8 @@ for activity_time in sorted(activities.keys()):
     if hour < activity_time:
         print "next: At",activity_time," you will be",activities[activity_time]
         break 
-else:
-    print 'Unknown, AFK or sleeping!'
+    else:
+        print 'Unknown, AFK or sleeping!'
 
 #MORE What if you add an activity at 16 on the line abobe commuting?
 #MORE can you print " the last thing you did was"
