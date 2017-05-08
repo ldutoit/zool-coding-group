@@ -1,13 +1,10 @@
 #!/usr/bin/env python
 
-#this script is showing you a few commands
+#this script is demonstrating  a few commands
 #and tools for python.
 
-#Don't be afraid to ask or to google or me!
 
-#MORE is ideas of small exercices, only do
-#them if you want too
-
+#MORE are ideas of small exercices. 
 
 
 
@@ -24,10 +21,12 @@ a[1]  # Python is zero based, grab the first position
 a[0:5] # from the beginning to 5 ( excluding five, lengh = 4)
 a[:5] # beginning does not need to be specified
 a[2:] # end does not need to be specified either
+a[-1] # print the last character
+a[-3:] # print the the three last characters
 a[1:10:2] # from 1 to 10 jumping 1 position every time
 a.upper() # print A in upper case, upper is a method (a function for object a)
 
-#MORE can you print the reverse string 'dlrow ,olleH'
+#MORE can you print the reverse string 'dlrow ,olleH'?
 #MORE try a few function for objects of class strings", find them out using (dir)
 
 
@@ -53,7 +52,7 @@ for i, name in enumerate(friends):  # get rid of counters!
 ####LINES: FUNCTIONS
 
 
-def greet(name):  # we define this function that print whatever name is the argument
+def greet(name):  # we define this function
     print 'Hello', name 
 
 greet('Jack') # run the function for jack
@@ -72,7 +71,7 @@ greet('Bob',weather =2) # as you see, you can specify different type of integers
 
 #MORE modify greet() so that you make sure that weather
 #is a string or then it stop the program use google to
-# find out how to stop!
+# find out how to stop the program!
 #MORE what is return about?
 
 
@@ -84,8 +83,9 @@ while babies < 100: # as long as babies is less than 100, go through this
     parents, babies = babies, parents + babies # recomputing number of parents and babies
 
 
-#MORE: Can have grandparents and print them too?
-#MORE: Can you make that a function that take the maimum number of babies as an argument
+#MORE: Can have add grand parents and do a triple assignment?
+#MORE: Can you transform this into a function that take 
+#the maximum number of babies as an argument
 
 
 ###LINES: TIME, CONDITIONALS, FROM..IMPORT, FOR..ELSE
@@ -105,18 +105,19 @@ hour = time_now.tm_hour # extract the hour from the current time
 
 for activity_time in sorted(activities.keys()):
     if hour < activity_time:
-        print "next at",activity_time," you will be",activities[activity_time]
+        print "next: At",activity_time," you will be",activities[activity_time]
         break 
 else:
     print 'Unknown, AFK or sleeping!'
 
+#MORE What if you add an activity at 16 on the line abobe commuting?
 #MORE can you print " the last thing you did was"
 #MORE look what helse is in time using help(time)
 
 
 
 ###CONDITIONAL
-# python willget into the block if the all statement is true
+# python will get into the block if all the statement is true
 if True: # True is true
   print "this is true"
 
@@ -144,16 +145,16 @@ any([True,False,True,True]) # check that at least one is true
 
 
 #MORE what about not all() and not any()
-#MORE play with more complicated expression and with expression that contains more than two statement
+#MORE play with more complicated expression and with expressions that contains more than two statements
 
 
 ###LINES: TRIPLE-QUOTED STRINGS, WHILE LOOP
 
 
-#triple quoted string are type strings but they can be multiline!, 
-#%i specify that the user will specify an integer
-# it could also be %s for specifying string, 
-# module is very practical to format
+#triple quoted string are type 'string' but they can be spicified over multiple lines!
+#%i specify that the user will specify an integer after the string after the modulo sign 
+# It could also be %s for specifying string.
+# It is very practical to format
 REFRAIN = ''' 
 %i bottles of beer on the wall,
 %i bottles of beer,

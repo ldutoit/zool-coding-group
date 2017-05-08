@@ -19,12 +19,13 @@ plt.ion() # make plot appear each time
 #loading the data, don't be afraid the help to understand more . help(pd.read_csv())
 bikes = pd.read_csv('bikes.csv', sep=';', encoding='latin1', parse_dates=['Date'], dayfirst=True, index_col='Date')
 
-#make a first plot to look at biking in the berri  neighborhood 
+#make a first plot to look at biking in the berri neighborhood 
 bikes['Berri 1'].plot() 
 
 
 # create a data frame only with the berri neighborhood to focus on it
-berri_bikes = bikes[['Berri 1']].copy()
+type(berri_bikes) # Berri is a dataframe, an object defined by the panda library.
+berri_bikes = bikes[['Berri 1']].copy() # it uses the copy method on this object
 
 #look at the first 5 data points
 berri_bikes[:5]
@@ -37,15 +38,15 @@ berri_bikes.index
 # we can check which day of the month 
 berri_bikes.index.day
 
-# Or we can check which day of the month 
+# Or we can check which day of the week (mon-sun) 
 berri_bikes.index.weekday
 
 
-#Let s add a column weekday to our data frame
+#Let's add a column weekday to our data frame
 berri_bikes.loc[:,'weekday'] = berri_bikes.index.weekday
 berri_bikes[:5]
 
-# Let s count the number of bikes per day by summing the number of bikes
+# Let's count the number of bikes per day by summing the number of bikes
 weekday_counts = berri_bikes.groupby('weekday').aggregate(sum)
 weekday_counts
 
@@ -55,14 +56,6 @@ weekday_counts.index = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 
 weekday_counts
 
 
-
-bikes = pd.read_csv('../data/bikes.csv', 
-                    sep=';', encoding='latin1', 
-                    parse_dates=['Date'], dayfirst=True, 
-                    index_col='Date')
-# Add the weekday column
-berri_bikes = bikes[['Berri 1']].copy()
-berri_bikes.loc[:,'weekday'] = berri_bikes.index.weekday
 
 #and plot it
 weekday_counts.plot(kind='bar')

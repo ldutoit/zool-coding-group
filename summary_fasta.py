@@ -1,31 +1,34 @@
 #!/usr/bin/env python
 
-#COMMAND LINE SCRIPT ( very simple one)
-# exampleusage: python summary_fasta.py <inputfile> <outputfile>"
+#COMMAND LINE SCRIPT 
+# example usage: python summary_fasta.py <inputfile> <outputfile>"
+#fasta_file.txt is a provided fasta_file you can use as input
 
-#
+#DESCRIPTION
+#Command line scripts are great because they allow someone who
+# does know how to code to use your scripts. They are not run directly from python
+# but from a terminal.
+#This script take a fasta file (use fasta_file.txt) to obtain a few statistics.
+#A fasta file is a standard format to store biological sequences(i.e. dna, proteins). 
+#It has one line of description per sequence starting by
+# he character ">". All the next lines are sequence until the next sequence descriptor
 
-#Command line scripts are great cause they allow someone who
-# does know how to code to use your script
+#INSTRUCTIONS
 
-#this script take a fasta file (use fasta_file.txt) to obtain a few statistics.
-# a fasta file is a standaerd format to store dna sequence: it has one line of description per sequence starting by
-# the character ">". All the next lines are sequence until the next sequence descriptor
-
-#take time to understand how it works, function by function. The functions are ran at the end of the program
-#pay particular attention to the two functions that habdke files (i.e. parse_fasta output_summary)
-#play around by adding soime print to understand the code or modifying
+#1.Run it according to example usage (line 4)
+#2.take time to understand how it works, function by function. The functions are ran at the end of the program
+#pay particular attention to the two functions that habdke files (i.e. parse_fasta output_summary).
+#Add some print statement to understand the code or modif the script.
 
 # for more on file handling https://www.tutorialspoint.com/python/python_files_io.htm
 # For more advanced argument parsing  https://www.cyberciti.biz/faq/python-command-line-arguments-argv-example/ 
 
 # This program adds up integers in the command line
-import sys, os
+import sys
 
 
 def read_in_argument(arguments):
 	'''check the input'''
-	#print sys.argv
 	if not len(sys.argv) == 3: #check that the user entered two argument ( the name of the script is the third)
 		raise Exception ("usage: python test.py <inputfile> <outputfile>")
 	return arguments[1:] # the argument 0 is the script name, return input file and output file

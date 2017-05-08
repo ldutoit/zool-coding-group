@@ -31,7 +31,9 @@ https://matplotlib.org/users/pyplot_tutorial.html
 
 #More on scientific python
 Some modules we did not cover contains loads of toiols fr python programming
-among those, nuumpy and scipy as well as scikit might be the most important
+among those, nuumpy and scipy as well as scikit might be the most important.
+Check them onlines: 
+https://docs.scipy.org/doc/
 
 
 Finally, kaggle is amazing, it contains dataset and enormous amount of coders and ressources
