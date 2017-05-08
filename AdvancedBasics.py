@@ -33,14 +33,17 @@ a.upper() # print A in upper case, upper is a method (a function for object a)
 ####LINES: FOR LOOP, BUILT-IN ENUMERATE FUNCTION, NEW STYLE FORMATTING
 
 
-friends = ['anna', 'lisa', 'michael']  # this is a list it can be enumerated over
+
+friends = ['rachel', 'monica', 'joey','chandler','ross']  # this is a list it can be enumerated over
 for  name in friends:
     print  name
 
 
-friends = ['anna', 'lisa', 'michael']  # this is a list it can be enumerated over
+friends = ['rachel', 'monica', 'joey','chandler','ross'] # this is a list it can be enumerated over
 for i, name in enumerate(friends):  # get rid of counters!
     print  i, name
+
+
 
 
 #MORE: What is enumerate() about?
