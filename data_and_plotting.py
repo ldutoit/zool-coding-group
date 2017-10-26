@@ -9,8 +9,8 @@
 
 #adapted from http://nbviewer.jupyter.org/github/jvns/pandas-cookbook/blob/master/cookbook/Chapter%204%20-%20Find%20out%20on%20which%20weekday%20people%20bike%20the%20most%20with%20groupby%20and%20aggregate.ipynb
 
-import pandas as pd # pandas  is a python fo data strucre 
-import matplotlib.pyplot as plt
+import pandas as pd # pandas  is a python fo data structure, if that fails,  run: python -m pip install pandas
+import matplotlib.pyplot as plt # if that fails,  run: python -m pip install matplotlib
 
 plt.ion() # make plot appear each time
 
