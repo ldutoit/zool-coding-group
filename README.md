@@ -1,4 +1,4 @@
-# python_PhD_days_UU
+# Digital Lab 2017
 This folder contains the introductory material for the introduction to python for the PhD days 2017 
 
 ## Scripts
