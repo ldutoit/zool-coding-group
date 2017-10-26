@@ -3,9 +3,9 @@
 #This script is a very simple example of how to process data with python.
 # The module pandas is very well suited for data structure... 
 
-#Okay! We're going to look at a bike dataset fro Montreal.
-#Is it a commuter city or a biking-for-fun city -- do people bike more on weekends, 
-#or on weekdays?
+#Okay! We're going to look at a bike dataset from Montreal.
+#Is it a commuter city or a biking-for-fun city 
+#In other words do people bike more on weekends, or on weekdays?
 
 #adapted from http://nbviewer.jupyter.org/github/jvns/pandas-cookbook/blob/master/cookbook/Chapter%204%20-%20Find%20out%20on%20which%20weekday%20people%20bike%20the%20most%20with%20groupby%20and%20aggregate.ipynb
 
