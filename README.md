@@ -1,5 +1,5 @@
 # Digital Lab 2017
-This folder contains the introductory material for the introduction to python for the PhD days 2017 
+This folder contains the introductory material for the introduction to python for the digital lab workshop 2017
 
 ## Scripts
 **AdvancedBasics.py** contains data structures and python basics
