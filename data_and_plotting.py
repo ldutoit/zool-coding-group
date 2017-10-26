@@ -67,6 +67,6 @@ bikes['Berri 1'].plot()
 
 #But python can do a lot more cool plots
 # Are you curious? Surely there is something for your paper!
-# Have a look to the link below. Alot of plots are visible
+# Have a look to the link below. A lot of plots are visible
 # and the code is always provided.
 #https://matplotlib.org/gallery.html
