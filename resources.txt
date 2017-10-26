@@ -2,11 +2,11 @@
 
 #Python in 43:16
 As expected, youtube is full of videos regarding python. This one is from a man claiming to explain 90% of 
-python programming in hgis 45mn video. And I think he really does in a very clever, smart and efficient way
+python programming in his 45mn video. And I think he really does in a very clever, smart and efficient way
 Link: https://www.youtube.com/watch?v=N4mEzFDjqtA
 
 #Codecademy
-codecademy is a great to learn most language. After a simple login., it will take you interactively throiugh python
+codecademy is a great to learn most languages. After a simple login., it will take you interactively through python
 Link: codecademy.org/python
 
 #more on file handling
