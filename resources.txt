@@ -1,24 +1,25 @@
-##More ressource
+##More resources
 
-#Python in 43:16
+# Python in 43:16
 As expected, youtube is full of videos regarding python. This one is from a man claiming to explain 90% of 
-python programming in his 45mn video. And I think he really does in a very clever, smart and efficient way
+python programming in his 45mn video. He really does it in a very clever, smart and efficient way
 Link: https://www.youtube.com/watch?v=N4mEzFDjqtA
 
-#Codecademy
-codecademy is a great to learn most languages. After a simple login., it will take you interactively through python
+# Codecademy
+Codecademy is a great to learn most languages. After a simple login., it will take you interactively through python
 Link: codecademy.org/python
 
-#more on file handling
-https://www.tutorialspoint.com/python/python_files_io.htm
-#more on argument parsing
-https://www.cyberciti.biz/faq/python-command-line-arguments-argv-example/ 
+# More on file handling
 
+https://www.tutorialspoint.com/python/python_files_io.htm
+
+# More on argument parsing
+https://www.cyberciti.biz/faq/python-command-line-arguments-argv-example/ 
 
 # More Pandas tutorial (efficient data structure, dataframe, etc..)
 http://pandas.pydata.org/pandas-docs/stable/tutorials.html
 
-#more on plotting
+# More on plotting
 plots and code:
 https://matplotlib.org/gallery.html
 
