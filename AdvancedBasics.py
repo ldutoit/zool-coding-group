@@ -17,17 +17,27 @@ print 'Hello, world!' # Number 1!
 
 ### Different types and their methods
 
-integer
-you can add stuff
+x = 10 #  10
+type(x)  # x is an integer
+x/2 # x is an integer, you can do simple maths with integer
+x/3 # maths with integer returns integer 10/ 3 = 3*3 ( 1 is left)
 
-float
-different behavior
+y = 10.0
+type(y) # y is a float
+y/3 # returns a float!
 
-string
-a.upper() # print A in upper case, upper is a method (a function for object a)
 
-list
-we ll see
+mystring = "Python is great!" 
+type(mystring) # it is a string
+wrong = Python is great!  # the quotes are essential when defining a string
+mystring.count(" ") # count the white space 
+mylist = [1.0, "ab", 3] 
+type(mylist) # mylist is a list, it can contains elements of different types.
+mylist.count("ab") # copunt the number of times "ab" is in the list
+mylist.count("a")  # what happened here? count is different for a list and a string
+
+
+
 
 ###STRING INDEXING
 
