@@ -5,7 +5,7 @@ This folder contains the introductory material for the introduction to python fo
 ## Files
 
 **GettingStarted.pdf**
-3 slides that explain you how to get started
+explains you how to get started
 
 **AdvancedBasics.py** contains data structures and python basics
 
