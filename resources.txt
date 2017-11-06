@@ -22,10 +22,8 @@ http://pandas.pydata.org/pandas-docs/stable/tutorials.html
 plots and code:
 https://matplotlib.org/gallery.html
 
-tutorial matplotlib module
+#tutorial matplotlib module
 https://matplotlib.org/users/pyplot_tutorial.html
-
-
 
 
 
@@ -33,10 +31,12 @@ https://matplotlib.org/users/pyplot_tutorial.html
 Some modules we did not cover contains loads of toiols fr python programming
 among those, nuumpy and scipy as well as scikit might be the most important.
 Check them onlines: 
+
 https://docs.scipy.org/doc/
 
 
-Finally, kaggle is amazing, it contains dataset and enormous amount of coders and ressources
+#Finally, kaggle is amazing, it contains dataset and enormous amount of coders and ressources
 to learn about data science
 https://www.kaggle.com/
+
 
