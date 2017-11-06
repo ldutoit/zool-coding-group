@@ -14,6 +14,21 @@
 print 'Hello, world!' # Number 1!
 
 
+
+### Different types and their methods
+
+integer
+you can add stuff
+
+float
+different behavior
+
+string
+a.upper() # print A in upper case, upper is a method (a function for object a)
+
+list
+we ll see
+
 ###STRING INDEXING
 
 #In this part you will quickly learn how you can access different parts of
@@ -27,7 +42,6 @@ a[2:] # end does not need to be specified either
 a[-1] # print the last character
 a[-3:] # print the the three last characters
 a[1:10:2] # from 1 to 10 jumping 1 position every time
-a.upper() # print A in upper case, upper is a method (a function for object a)
 
 b = [1,2,3] # This is a list with 3 positions
 b[1] # grab the second position
