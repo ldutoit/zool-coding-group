@@ -1,3 +1,6 @@
+# GettingStarted.pdf
+3 slides that explain you how to get started
+
 # Digital Lab 2017
 This folder contains the introductory material for the introduction to python for the digital lab workshop 2017
 
