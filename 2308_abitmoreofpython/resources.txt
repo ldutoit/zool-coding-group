@@ -1,0 +1,43 @@
+##More resources
+
+# Python in 43:16
+As expected, youtube is full of videos regarding python. This one is from a man claiming to explain 90% of 
+python programming in his 45mn video. He really does it in a very clever, smart and efficient way
+Link: https://www.youtube.com/watch?v=N4mEzFDjqtA
+
+# Codecademy
+Codecademy is a great to learn most languages. After a simple login., it will take you interactively through python
+Link: codecademy.org/python
+
+# More on file handling
+
+https://www.tutorialspoint.com/python/python_files_io.htm
+
+# More on argument parsing
+https://www.cyberciti.biz/faq/python-command-line-arguments-argv-example/ 
+
+# More Pandas tutorial (efficient data structure, dataframe, etc..)
+http://pandas.pydata.org/pandas-docs/stable/tutorials.html
+
+# More on plotting
+plots and code:
+https://matplotlib.org/gallery.html
+
+#tutorial matplotlib module
+https://matplotlib.org/users/pyplot_tutorial.html
+
+
+
+#More on scientific python
+Some modules we did not cover contains loads of toiols fr python programming
+among those, nuumpy and scipy as well as scikit might be the most important.
+Check them onlines: 
+
+https://docs.scipy.org/doc/
+
+
+#Finally, kaggle is amazing, it contains dataset and enormous amount of coders and ressources
+to learn about data science
+https://www.kaggle.com/
+
+

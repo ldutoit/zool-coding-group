@@ -1,16 +1,9 @@
 
-# Digital Lab 2017
-This folder contains the introductory material for the introduction to python for the digital lab workshop 2017
+#Zool coding group
 
-## Files
+This repository contains all the material we used throughout our small coding Zoology group.
 
-**GettingStarted.pdf**
-explains you how to get started
+It has one folder per session! Each folder contains its own little README.
 
-**AdvancedBasics.py** contains data structures and python basics
 
-**summary_fasta.py** contains a command line script that can be used to output summary of a dna sequence file ( fasta format), run it from the command line!
-
-**data_and_plotting.py** introduce pandas and matplotlib, two grerat tools for data processing in python for processing data using python as well as basic plotting via a small tutorial 
-
-**resources.txt** contains links to a few nice ressources
+If you have any questions or encounter any issues, open an [issue](https://github.com/ldutoit/zool-coding-group/issues)
