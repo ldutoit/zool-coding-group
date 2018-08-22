@@ -1,5 +1,4 @@
-
-#Zool coding group
+# Zool coding group
 
 This repository contains all the material we used throughout our small coding Zoology group.
 
