@@ -8,7 +8,7 @@ Here are just a few ressources to help you further with python:
 
 * [Argument parsing](https://www.cyberciti.biz/faq/python-command-line-arguments-argv-example/)
 
-* Plots
+* Plotting
 
   * [plots and code](https://matplotlib.org/gallery.html)
 
