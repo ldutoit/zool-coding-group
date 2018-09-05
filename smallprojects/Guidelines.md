@@ -2,7 +2,7 @@
 
 ## Summary
 
-This document summarizes the 4 phases of our little project as well as the objectives and the timeline.
+This document summarizes the 3 phases of our little project as well as the objectives and the timeline.
 
 ## Objectives
  
