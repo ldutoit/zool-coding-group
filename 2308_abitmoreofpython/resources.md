@@ -7,8 +7,11 @@ As expected, youtube is full of videos regarding python. [This one](https://www.
 ### Other ressources
 
 [file handling](https://www.tutorialspoint.com/python/python_files_io.html)
+
 [Argument parsing](https://www.cyberciti.biz/faq/python-command-line-arguments-argv-example/)
+
 [plots and code:](https://matplotlib.org/gallery.html)
+
 [plotting tutorial]( https://matplotlib.org/users/pyplot_tutorial.html)
 
 [Kaggle](https://www.kaggle.com/) is amazing, it contains dataset and enormous amount of coders and ressources
