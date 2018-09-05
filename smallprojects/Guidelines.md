@@ -15,7 +15,7 @@ This document summarizes the 3 phases of our little project as well as the objec
     * Avoid repetitions
     
 
-## 3 steps
+## Process
 
 ### Timeline
 
@@ -28,7 +28,7 @@ This is a one month project. Keep it reasonably sized! We'll have individual int
 
 
 
-### 1.Get an idea and write the pseudocode
+###  1.Get an idea and write the pseudocode
 
 Once you have an idea of a project, you will try to deconstruct your project into smaller step to write the *pseudocode*. This is code written in plain english to help you lay down the structure of your project. It could start by simply being big steps like:
 
@@ -63,11 +63,11 @@ Keep questions in mind like:
 * What should be the main objects and what will they contain or do?
 
 
-### 3. Transform it into code
+### 2. Transform it into code
 
 Take your pseudo code and start filling in code. Use google a lot for the problems and also our [slack](https://www.google.com/url?q=https://bioinfo-grouptalk.slack.com/&source=gmail&ust=1536201497630000&usg=AFQjCNGgd_DKvBsG7ekm55enZGI4t2p9-w) project channel ( also use me!). I'll meet you once a week individually (more if needed) during this time so we can keep it going. Once it is ready, share it with me as a slef contained github repository containing a README, a case example if relevant and the actual code.
 
-### 4. Present it to everyone
+### 3. Present it to everyone
 
 Once you shared the code with me, you can prepare a small presentation for everyone. You will present to everyone on our regular thursday meeting October 4.
 
