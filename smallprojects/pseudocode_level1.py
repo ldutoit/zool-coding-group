@@ -18,4 +18,4 @@
   # Look at the above and our input and see if the window is good or not
 
 
-Output the okay window to a file
+#Output the okay window to a file
