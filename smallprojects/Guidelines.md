@@ -1,4 +1,4 @@
-#1 Guidelines
+# Guidelines
 
 ## Summary
 
@@ -17,8 +17,14 @@ This document summarizes the 4 phases of our little project as well as the objec
 
 ## Four steps
 
-Here is the timeline.
+### Timeline
 
+
+This is a one month project.
+
+in 1 weeks from 1 to 12 : Presnetation of pseudocode and idea
+two weeks later: You should share the code with me, 
+1 week later: Cake and presentation
 
 ###
 
@@ -44,7 +50,7 @@ and slowly become something much more precise. The more precise it is, the more 
     add this line to the last sequence
 ### Calculate statistics
  for sequence in sequences:
-        output gc content and length 
+        print gc content and length 
   
 
 ```
