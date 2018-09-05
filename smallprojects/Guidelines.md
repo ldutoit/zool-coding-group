@@ -28,7 +28,7 @@ This is a one month project. Keep it reasonably sized! We'll have individual int
 
 
 
-###  1.Get an idea and write the pseudocode
+###  1. Get an idea and write the pseudocode
 
 Once you have an idea of a project, you will try to deconstruct your project into smaller step to write the *pseudocode*. This is code written in plain english to help you lay down the structure of your project. It could start by simply being big steps like:
 
