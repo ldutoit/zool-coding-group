@@ -5,7 +5,7 @@ As expected, youtube is full of videos regarding python. [This one](https://www.
 
 * [Python documentation](https://docs.python.org/2/index.html)
 
-* [Python in 43:16](is from a man claiming to explain 90% of python programming in his 45mn video. And I think he really does it, in a clever, smart and efficient way.)
+* [Python in 43:16](https://www.youtube.com/watch?v=N4mEzFDjqtA) is from a man claiming to explain 90% of python programming in his 45mn video. And I think he really does it, in a clever, smart and efficient way.)
 
 * [Argument parsing](https://www.cyberciti.biz/faq/python-command-line-arguments-argv-example/)
 
