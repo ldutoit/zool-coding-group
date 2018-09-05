@@ -2,42 +2,42 @@
 
 ## Summary
 
-This document summarizes the 4 phases of our little project as well as the objectives.
+This document summarizes the 4 phases of our little project as well as the objectives and the timeline.
 
 ## Objectives
  
- The main pobjective is that your project should be shareable. If it is a data visualisation script, it should be usable by someone else with similar data formats. If it is a video game, it should be playable by someone else, etc...
+ The main pobjective is that your project should be shareable. If it is a data visualisation script, it should be usable by someone else provided similar data formats. If it is a video game, it should be playable by someone else, etc...
  To achieve this: 
- * you will share your poject as a github repository. You will also share example data if it is something that requires special data format or files.
- * you will document your code
- * you will try to write nice code as much as possible
-    * write functions
-    * avoid repetitions
+ * You will share your poject as a github repository. You will also share example data if it is something that requires special data format or files.
+ * You will document your code
+ * You will try to write nice code as much as possible:
+    * Write functions
+    * Avoid repetitions
     
 
-## Four steps
+## 3 steps
 
 ### Timeline
 
 
-This is a one month project.
+This is a one month project. Keep it reasonably sized! We'll have individual interaction once you start writing your code but here is the timeline:
 
-in 1 weeks from 1 to 12 : Presnetation of pseudocode and idea
-two weeks later: You should share the code with me, 
-1 week later: Cake and presentation
+* September 13 : present your idea and your pseudocode in an informal way, 5mn.
+* September 27 : You should have a running project and share the code with me so that I can comment.
+* October 4: Small presentation of your project using your github, I'll bring cookies!
 
-###
+
 
 ### 1.Get an idea and write the pseudocode
 
-Once you have an idea of a project, you will try to deconstruct your project into [pseudocode](). This is code written in plain english and just help you lay down the structure of your project. It could start by simply being big steps like:
+Once you have an idea of a project, you will try to deconstruct your project into smaller step to write the *pseudocode*. This is code written in plain english to help you lay down the structure of your project. It could start by simply being big steps like:
 
 ```
 # Read the sequence
 # Output basic statistics
 ```
 
-and slowly become something much more precise. The more precise it is, the more structured your ideas are andthe easier the coding will be!
+and slowly become something much more precise:
 
 ```
 #Read the data
@@ -54,16 +54,20 @@ and slowly become something much more precise. The more precise it is, the more 
   
 
 ```
-
-To help you do this, do it iteratively getting slowly more precise and keep questions in mind like:
+The more precise it is, the more structured your ideas are andthe easier the coding will be!
+To help you do this, do it iteratively getting slowly more precise.
+Keep questions in mind like:
 
 * What will be the input and the output for your project?
-* What should be the amin functions?
-* What should be the main objects?
+* What should be the main functions?
+* What should be the main objects and what will they contain or do?
 
 
 ### 3. Transform it into code
 
-Take your pseudo code and start filling in code. Use google a lot for the problems and also our slack project channel ( also use me!)
+Take your pseudo code and start filling in code. Use google a lot for the problems and also our slack project channel ( also use me!). I'll meet you once a week individually (more if needed) during this time so we can keep it going.
 
-### 4.Present it to everyone
+### 4. Present it to everyone
+
+Once you shared the code with me, you can prepare a small presentations for everyone. You will present to everyone on our regular thursday meeting October 4.
+
