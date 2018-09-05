@@ -54,7 +54,7 @@ and slowly become something much more precise:
   
 
 ```
-The more precise it is, the more structured your ideas are andthe easier the coding will be!
+The more [precise](http://www.unf.edu/~broggio/cop2221/2221pseu.htm) it is, the more structured your ideas are andthe easier the coding will be!
 To help you do this, do it iteratively getting slowly more precise.
 Keep questions in mind like:
 
@@ -65,9 +65,9 @@ Keep questions in mind like:
 
 ### 3. Transform it into code
 
-Take your pseudo code and start filling in code. Use google a lot for the problems and also our slack project channel ( also use me!). I'll meet you once a week individually (more if needed) during this time so we can keep it going.
+Take your pseudo code and start filling in code. Use google a lot for the problems and also our [slack](https://www.google.com/url?q=https://bioinfo-grouptalk.slack.com/&source=gmail&ust=1536201497630000&usg=AFQjCNGgd_DKvBsG7ekm55enZGI4t2p9-w) project channel ( also use me!). I'll meet you once a week individually (more if needed) during this time so we can keep it going. Once it is ready, share it with me as a slef contained github repository containing a README, a case example if relevant and the actual code.
 
 ### 4. Present it to everyone
 
-Once you shared the code with me, you can prepare a small presentations for everyone. You will present to everyone on our regular thursday meeting October 4.
+Once you shared the code with me, you can prepare a small presentation for everyone. You will present to everyone on our regular thursday meeting October 4.
 
