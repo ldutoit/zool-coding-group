@@ -1,7 +1,5 @@
 ## Ressources
 
-###
-
 As expected, youtube is full of videos regarding python. [This one](https://www.youtube.com/watch?v=N4mEzFDjqtA) is from a man claiming to explain 90% of python programming in his 45mn video. And I think he really does in a very clever, smart and efficient way
 
 
