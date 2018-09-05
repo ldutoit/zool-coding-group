@@ -2,7 +2,8 @@
 
 ## Summary
 
-This document summarizes the 3 phases of our little project as well as the objectives and the timeline.
+This document summarizes the 3 phases of our little project as well as the objectives and the timeline. It can be something from your own research, biology or not. Something fun is fine too!
+
 
 ## Objectives
  
