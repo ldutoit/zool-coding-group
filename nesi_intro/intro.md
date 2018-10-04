@@ -2,7 +2,7 @@
 
 ## Summary
 
-This is a quick quick quick guide of the thing I usually go over with new users of NeSI. It allows me and other users to remember the important bits we talk about. 
+This is a quick quick quick guide of the thing I usually go over with new users of NeSI. It allows me and other users to remember the important bits we talk about. It does not replace an intro to command line and is less complete than NESI guides but it allows a quick overview of the basics.
 
 ## 1. A comfy home
 
@@ -27,14 +27,27 @@ And add it to the path so that any software located in there can be found by the
 
 ```
 nano ~.bash_profile
-##Add the following line at the end
+##ADD the following line at the end, don't delete anything in this file!
 PATH=$PATH:~/bin
 ```
 
-Then **ctrl+x** and **y** to close nano. Now your bin is added to the PATH!!
+Then **ctrl+x** and **y** to close nano. Now your bin is added to the PATH and you have a comfy home.
 
+## 2. Copy data
 
-## 2.Find installed softwares
+If you need to copy data from your computer to Nesi use scp. It works like this
+
+```
+scp from to
+```
+
+For example, if you have . a folder on your Desktop and you wanted on your NESI home:
+
+```
+scp  =r ~/Desktop/test    USERNAME@login.mahuika.nesi.org.nz:/home/lUSERNAME/ # replace USERNAME with your nesi username
+```
+
+## 3.Find installed softwares
 
 
 Let's see if BEAST is already installed:
@@ -83,7 +96,7 @@ module load BEAST
 ```
 Yes
 
-## run jobs
+## 4. run jobs
 Let's create a  wee script.
 
 Open a text editor and a new script file:
