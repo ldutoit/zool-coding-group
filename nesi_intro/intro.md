@@ -144,8 +144,10 @@ $USER is a variable that contains your username.you can try:
 ```
 echo $USER
 ```
-It would take forever to start anyway, lets cancel my jobs
+Anyway, lets cancel this job for now....
 
 ```
 scancel -u $USER # you can also cancle jobs directly with jobid (i.e. scancel 3546577)
 ```
+
+and, GOOD LUCK!
