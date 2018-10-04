@@ -92,9 +92,9 @@ module load BEAST
 and check all our loaded modules...
 
 ```
-module load BEAST
+module list BEAST
 ```
-Yes
+Yes, we have BEAST loaded now and we can run BEAST commands.
 
 ## 4. run jobs
 Let's create a  wee script.
@@ -142,7 +142,7 @@ squeue -u $USER
 
 $USER is a variable that contains your username.you can try:
 ```
-try  echo $USER
+echo $USER
 ```
 It would take forever to start anyway, lets cancel my jobs
 
